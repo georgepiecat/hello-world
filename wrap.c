@@ -6,5 +6,7 @@ void printf_wrap(void *ptr)
 	if (str != NULL && ptr != NULL && sizeof(char) == SIZEOFNORMALCHARONMOSTCOMPUTERS && &printf != NULL) {
 		printf(str);
 	}
+}
 
-void jkl() {;}void asdf() {;}
+void jkl() {;}
+void asdf() {;}
