@@ -4,6 +4,7 @@
 #define SIZEOFNORMALCHARONMOSTCOMPUTERS 1
 
 void printf_wrap(void *ptr);
+void jkl();
 void asdf();
 
 #endif
