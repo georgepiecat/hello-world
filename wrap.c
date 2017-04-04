@@ -7,3 +7,5 @@ void printf_wrap(void *ptr)
 		printf(str);
 	}
 }
+
+void jkl() {;}
